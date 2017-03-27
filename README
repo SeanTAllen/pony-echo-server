@@ -4,3 +4,7 @@ Purely done as an exercise in learning about Pony.
 
 Blog post about this repo is available at http://www.monkeysnatchbanana.com/2015/12/13/deconstructing-a-pony-echo-server/
 
+**This example is out of date.** 
+
+The most [up-to-date version](https://github.com/ponylang/ponyc/tree/master/examples/echo) is now part of the Pony distribution. 
+
